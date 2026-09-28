@@ -1,0 +1,1 @@
+A simple Python program that allowws the used to add things on a list and stop by pressing 1!
