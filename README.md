@@ -6,7 +6,7 @@ A simple Python program that allows the user to add and manage items in a list.
 
 ### Features
 
-- Add items in a list
+- Add items to a list
 - Allows the user to check the items added to the list
 
 ### What I Learned
